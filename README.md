@@ -1,14 +1,17 @@
-# Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+Tentu! Berikut contoh kata-kata pengantar yang bisa kamu gunakan untuk file `README.md`:
 
+---
 
-# Description
-Flower code tiktok trend 
+## 📌 Pengantar
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
+Selamat datang di proyek ini!  
+Proyek ini dibuat dengan penuh semangat oleh **GrowjoyCode** untuk membantu komunitas developer dan penggemar Growtopia Planner atau project kreatif lainnya.
 
-# Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+Jangan ragu untuk menjelajah, mengembangkan, atau bahkan menginspirasi dari karya ini.  
+Jika kamu ingin tahu lebih banyak atau sekadar say hello, kamu bisa temui saya di Instagram:
 
-Thanks to codepan and mdusmanansari
+📷 **[Instagram @GrowjoyCode](https://instagram.com/GrowjoyCode)**
+
+---
+
+Kalau kamu ingin versi yang lebih formal atau lebih santai juga bisa, tinggal bilang aja!
